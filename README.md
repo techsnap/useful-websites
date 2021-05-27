@@ -2,7 +2,7 @@
 Useful handy websites
 
 https://www.unscreen.com/
-https://Remove.bg
+https://remove.bg
 https://untools.co/
 https://getavataaars.com/
 https://untools.co/
