@@ -1,11 +1,11 @@
 # useful-websites
 Useful handy websites
 
-[](https://www.unscreen.com/)
-https://remove.bg
-https://untools.co/
-https://getavataaars.com/
-https://untools.co/
+https://www.unscreen.com/  
+https://remove.bg  
+https://untools.co/  
+https://getavataaars.com/  
+https://untools.co/  
 https://teachyourselfcode.io/
 http://colormind.io/
 https://www.canva.com/
